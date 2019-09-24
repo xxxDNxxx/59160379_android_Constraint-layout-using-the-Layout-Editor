@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <item name="box_one_text" type="id">Box One</item>
+    <item name="constraint_layout" type="id">a</item>
+    <item name="yellow_button" type="id">yellow</item>
 </resources>
